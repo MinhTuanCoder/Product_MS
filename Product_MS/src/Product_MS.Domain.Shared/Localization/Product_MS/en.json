@@ -1,0 +1,31 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Categories": "Categories",
+    "Categories": "Categories",
+    "CategoryDeletionConfirmationMessage": "Are you sure to delete the Category '{0}'?",
+    "BirthDate": "Birth date",
+    "NewCategory": "New Category",
+
+    "Permission:Categories": "Category Management",
+    "Permission:Categories.Create": "Creating new Category",
+    "Permission:Categories.Edit": "Editing the Category",
+    "Permission:Categories.Delete": "Deleting the Category",
+
+    "Product_MS:00001": "There is already an category with the same name: {name}",
+
+    "ProductDeletionConfirmationMessage": "Are you sure to delete the product '{0}'?",
+    "SuccessfullyDeleted": "Successfully deleted!",
+    "Permission:Product_MS": "Product Store",
+    "Permission:Products": "Product Management",
+    "Permission:Products.Create": "Creating new Products",
+    "Permission:Products.Edit": "Editing the Products",
+    "Permission:Products.Delete": "Deleting the Products",
+
+    "Menu:Products": "Product",
+    "NewProduct": "New Product",
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io."
+  }
+}
